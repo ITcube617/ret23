@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Master</string>
+    <string name="rez">Результат %1d</string>
+    <string name="timing">Время %1d</string>
+</resources>
